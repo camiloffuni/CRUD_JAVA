@@ -1,5 +1,6 @@
 package org.example.service;
-
+// Interfaz que define los métodos de servicio para gestionar cursos,
+// permitiendo obtener, crear, actualizar y eliminar cursos en la aplicación.
 import org.example.domain.Cursos;
 import org.example.dto.CursosDTO;
 
@@ -15,3 +16,4 @@ public interface CursoServiceI {
     Optional<Cursos> updateCurso(int idCurso, CursosDTO cursosDTO);
     void deleteCurso(int idCurso);
 }
+//

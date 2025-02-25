@@ -1,5 +1,6 @@
 package org.example.dto;
 
+// DTO para Cursos, utilizado para transferir datos entre capas sin exponer la entidad directamente.
 import java.util.Date;
 
 public class CursosDTO {

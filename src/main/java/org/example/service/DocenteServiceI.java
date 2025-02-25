@@ -1,5 +1,6 @@
 package org.example.service;
-
+// Interfaz que define los métodos de servicio para gestionar docentes,
+// permitiendo obtener, crear, actualizar y eliminar cursos en la aplicación.
 import org.example.domain.Cursos;
 import org.example.domain.Docentes;
 import org.example.dto.CursosDTO;

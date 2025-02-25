@@ -61,7 +61,9 @@ Lista de códigos de estado HTTP usados:
 
 BASE DE DATOS
 
-Script SQL de creación de tablas:
+Script SQL de creación de base de datos y tablas del proyecto:
+
+CREATE DATABASE IF NOT EXISTS cursos_db;
 
 Create table cursos_db.cursos (
     id_curso int auto_increment primary key,
