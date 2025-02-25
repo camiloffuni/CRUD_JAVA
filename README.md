@@ -4,7 +4,7 @@
 ============================================
 Nombre del proyecto: Gestor de Cursos.
 
-Descripción:Este proyecto es una API REST con el fin de gestionar los cursos y sus docentes de una aplicación web.
+Descripción: Este proyecto es una API REST con el fin de gestionar los cursos y sus docentes de una aplicación web.
 En esta aplicación  podran ser creados, editados, filtrados y eliminados, los datos de los cursos, 
 para la información de docentes, podra ser creada, filtrada, editada y elimanarla si se desea.
 
